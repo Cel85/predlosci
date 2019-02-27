@@ -35,6 +35,7 @@ int main() {
 		cout << polje[i] << endl;
 	}
 
+
 	system("pause");
 	return 0;
 }
